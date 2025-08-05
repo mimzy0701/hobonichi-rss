@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+  <title>ほぼ日 最近の読むもの・観るもの</title>
+  <link>https://www.1101.com/article.html</link>
+  <description>ほぼ日刊イトイ新聞の新着記事フィード</description>
+  <lastBuildDate>Tue, 05 Aug 2025 10:00:00 +0900</lastBuildDate>
+
+  <item>
+    <title>「夜のふたりごと」 第3回</title>
+    <link>https://www.1101.com/n/s/futarigoto/2025-08-05.html</link>
+    <pubDate>Tue, 05 Aug 2025 08:00:00 +0900</pubDate>
+    <description><![CDATA[
+      <p>糸井重里さんと吉本ばななさんの特別対談、第三夜。人との別れや再会について語ります。</p>
+      <img src="https://www.1101.com/assets/futarigoto_3.jpg" alt=""/>
+    ]]></description>
+    <guid>futarigoto-20250805</guid>
+  </item>
+
+  <item>
+    <title>暮らしのヒント集 第592回</title>
+    <link>https://www.1101.com/n/s/hint/2025-08-05.html</link>
+    <pubDate>Tue, 05 Aug 2025 07:30:00 +0900</pubDate>
+    <description><![CDATA[
+      <p>「靴ひもを結びなおして、気持ちを切りかえよう」ちょっと疲れたときに効く小さな習慣。</p>
+      <img src="https://www.1101.com/assets/hint_592.jpg" alt=""/>
+    ]]></description>
+    <guid>hint-20250805</guid>
+  </item>
+
+</channel>
+</rss>
